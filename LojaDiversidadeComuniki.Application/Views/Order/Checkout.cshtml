@@ -1,0 +1,18 @@
+﻿@model LojaDiversidadeComuniki.Domain.Model.Order.Order
+
+<div class="container">
+    <form asp-action="Checkout" method="post" class="form-horizontal" role="form">
+    <h3>Você esta a um passo de completar o seu pedido</h3>
+    <hr />
+    <br />
+    <div class="row">
+        <div class="form-group col-md-3">
+            <input class="btn btn-success" type="submit" value="Concluir Pedido" />
+        </div>
+        &nbsp;
+        <div class="form-group col-md-3">
+            <a class="btn btn-outline-info" asp-controller="ShoppingCart" asp-action="Index">Retornar ao Carrinho</a>
+        </div>
+    </div>
+    </form>
+</div>

@@ -1,0 +1,17 @@
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.deps.json
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.runtimeconfig.json
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.pdb
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Domain.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\bin\Debug\net6.0\LojaDiversidadeComuniki.Domain.pdb
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.AssemblyInfo.cs
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.csproj.CopyComplete
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\refint\LojaDiversidadeComuniki.Infrastructure.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.pdb
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\LojaDiversidadeComuniki.Infrastructure.genruntimeconfig.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Infrastructure\obj\Debug\net6.0\ref\LojaDiversidadeComuniki.Infrastructure.dll

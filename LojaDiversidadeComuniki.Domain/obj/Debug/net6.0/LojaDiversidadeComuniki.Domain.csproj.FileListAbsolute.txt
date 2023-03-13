@@ -1,0 +1,12 @@
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\bin\Debug\net6.0\LojaDiversidadeComuniki.Domain.deps.json
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\bin\Debug\net6.0\LojaDiversidadeComuniki.Domain.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\bin\Debug\net6.0\LojaDiversidadeComuniki.Domain.pdb
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.csproj.AssemblyReference.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.AssemblyInfoInputs.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.AssemblyInfo.cs
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.csproj.CoreCompileInputs.cache
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\refint\LojaDiversidadeComuniki.Domain.dll
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\LojaDiversidadeComuniki.Domain.pdb
+C:\dev\projetos-pessoais\LojaDiversidadeComuniki\LojaDiversidadeComuniki.Domain\obj\Debug\net6.0\ref\LojaDiversidadeComuniki.Domain.dll

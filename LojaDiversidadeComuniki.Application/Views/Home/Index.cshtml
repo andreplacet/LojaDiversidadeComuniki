@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Loja Comuniki";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem vindo a Comuniki Store</h1>
+</div>
+<partial name="_Carousel" />
+
+<div class="container-lg" style="margin-top: 20px">
+    <h2 class="text-center">Nossos Produtos</h2>
+</div>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="data:image;base64,@product.Image" class="card-img-top" alt="@product.Name">
+                <div class="card-body">
+                    <h4>@product.Name</h4>
+                    <p>@product.Price.ToString("c")</p>
+                    <p>Categoria: @product.Category.Name</p>
+                    <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddItemToCart" asp-route-productId="@product.Id">Comprar</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="container" style="text-align: center">
+    <button class="btn btn-primary" style="margin-top: 25px">
+        <a class="btn btn-primary" asp-area="" asp-controller="Product" asp-action="Index">Veja Mais</a>
+    </button>
+</div>
