@@ -16,9 +16,9 @@ builder.Services.AddDbContext<EntityContext>(options => options
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddRoles<IdentityRole>().AddEntityFrameworkStores<EntityContext>();
 
-builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
-builder.Services.AddTransient<IProductRepository, ProductRepository>();
-builder.Services.AddTransient<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped(sp => ShoppingCartService.GetShoppingCart(sp));
 builder.Services.AddScoped<ISeedUserRoleInit, SeedUserRoleInit>();
 
